@@ -1,0 +1,38 @@
+html {
+    background: black;
+}
+
+body {
+    background: url(../img/fundoAneis.png) no-repeat;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background-position: 30% 45%;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+img {
+    border: solid;
+    width: 250px;
+    height: 300px;
+}
+
+p {
+    border: solid;
+    width: 1300px;
+    height: 250px;
+    font-size: 40.5px;
+    font-family: sans-serif;
+}
+
+video {
+    border: solid 5px white;
+    position: center;
+}
